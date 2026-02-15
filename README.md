@@ -1,10 +1,10 @@
 # Customer_Behavior_Analysis
 
 ## Project Overview
-This project analyzes 3,900 customer transactions to explore shopping behavior, spending patterns, product performance, and subscription trends. Using Python for data cleaning, PostgreSQL for business analysis, and Power BI for visualization, the project uncovers actionable insights for improved customer engagement strategies.
+This project analyzes 3,900 customer transactions to explore shopping behavior, spending patterns, product performance, and subscription trends. Using Python for data cleaning, MySQL for business analysis, and Power BI for visualization, the project uncovers actionable insights for improved customer engagement strategies.
 
 
-The project combines **Python (Data Cleaning & Feature Engineering)**, **PostgreSQL (Business Analysis)**, and **Power BI (Visualization Dashboard)**.
+The project combines **Python (Data Cleaning & Feature Engineering)**, **MySQL (Business Analysis)**, and **Power BI (Visualization Dashboard)**.
 
 
 ## 📂 Dataset Information
@@ -54,7 +54,7 @@ Data preprocessing was performed using **Pandas**:
 * Removed redundant columns (`promo_code_used`)
 * Exported cleaned dataset to **PostgreSQL** for SQL-based analysis
 
-## 🗄️ SQL Business Analysis (PostgreSQL)
+## 🗄️ SQL Business Analysis (MySQL)
 
 Structured queries were written to answer key business questions:
 
@@ -101,7 +101,7 @@ An interactive dashboard was created to visualize:
 ## 🛠️ Tech Stack
 
 * **Python** (Pandas, Data Cleaning, Feature Engineering)
-* **PostgreSQL** (SQL Analysis)
+* **MySQL** (SQL Analysis)
 * **Power BI** (Interactive Dashboard)
 
 
